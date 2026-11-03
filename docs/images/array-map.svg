@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 348 328" width="348" height="328" role="img" aria-label="SpacerMap visualization">
+<metadata id="crisprevo-spacermap">{"format": "crisprevo-spacermap", "version": 1, "arrays": [{"name": "Strain_A", "spacers": ["1", "2", "3", "4", "9"], "positions": [0.0, 1.0, 2.0, 3.0, 4.0]}, {"name": "Strain_B", "spacers": ["7", "2", "3", "4", "9"], "positions": [0.0, 1.0, 2.0, 3.0, 4.0]}, {"name": "Strain_C", "spacers": ["8", "8", "3", "4", "9"], "positions": [0.0, 1.0, 2.0, 3.0, 4.0]}, {"name": "Strain_D", "spacers": ["10", "11", "12"], "positions": [2.0, 3.0, 4.0]}, {"name": "Strain_E", "spacers": ["13", "11", "12"], "positions": [2.0, 3.0, 4.0]}, {"name": "Singleton", "spacers": ["20", "21"], "positions": [3.0, 4.0]}], "colors": {"1": {"fill": "#e69f00", "stroke": "#000000"}, "10": {"fill": "#000000", "stroke": "#D55E00"}, "11": {"fill": "#D55E00", "stroke": "#D55E00"}, "12": {"fill": "#009E73", "stroke": "#56B4E9"}, "13": {"fill": "#CC79A7", "stroke": "#F0E442"}, "2": {"fill": "#e69f00", "stroke": "#F0E442"}, "20": {"fill": "#D55E00", "stroke": "#0072B2"}, "21": {"fill": "#CC79A7", "stroke": "#56B4E9"}, "3": {"fill": "#D55E00", "stroke": "#000000"}, "4": {"fill": "#CC79A7", "stroke": "#0072B2"}, "7": {"fill": "#56B4E9", "stroke": "#D55E00"}, "8": {"fill": "#56B4E9", "stroke": "#009E73"}, "9": {"fill": "#0072B2", "stroke": "#009E73"}}, "align": "right"}</metadata>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<line x1="67.00" y1="90.00" x2="67.00" y2="106.00" stroke="#e69f00" stroke-width="2.6" stroke-linecap="round" stroke-opacity="0.78"/>
+<line x1="95.00" y1="90.00" x2="95.00" y2="106.00" stroke="#D55E00" stroke-width="2.6" stroke-linecap="round" stroke-opacity="0.78"/>
+<line x1="123.00" y1="90.00" x2="123.00" y2="106.00" stroke="#CC79A7" stroke-width="2.6" stroke-linecap="round" stroke-opacity="0.78"/>
+<line x1="151.00" y1="90.00" x2="151.00" y2="106.00" stroke="#0072B2" stroke-width="2.6" stroke-linecap="round" stroke-opacity="0.78"/>
+<line x1="95.00" y1="124.00" x2="95.00" y2="140.00" stroke="#D55E00" stroke-width="2.6" stroke-linecap="round" stroke-opacity="0.78"/>
+<line x1="123.00" y1="124.00" x2="123.00" y2="140.00" stroke="#CC79A7" stroke-width="2.6" stroke-linecap="round" stroke-opacity="0.78"/>
+<line x1="151.00" y1="124.00" x2="151.00" y2="140.00" stroke="#0072B2" stroke-width="2.6" stroke-linecap="round" stroke-opacity="0.78"/>
+<line x1="123.00" y1="208.00" x2="123.00" y2="224.00" stroke="#D55E00" stroke-width="2.6" stroke-linecap="round" stroke-opacity="0.78"/>
+<line x1="151.00" y1="208.00" x2="151.00" y2="224.00" stroke="#009E73" stroke-width="2.6" stroke-linecap="round" stroke-opacity="0.78"/>
+<rect x="28.00" y="72.00" width="22" height="18" rx="4" ry="4" fill="#e69f00" stroke="#000000" stroke-width="1.5"/>
+<text x="39.00" y="81.50" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="700" fill="#111111">▲</text>
+<rect x="56.00" y="72.00" width="22" height="18" rx="4" ry="4" fill="#e69f00" stroke="#F0E442" stroke-width="1.5"/>
+<rect x="84.00" y="72.00" width="22" height="18" rx="4" ry="4" fill="#D55E00" stroke="#000000" stroke-width="1.5"/>
+<rect x="112.00" y="72.00" width="22" height="18" rx="4" ry="4" fill="#CC79A7" stroke="#0072B2" stroke-width="1.5"/>
+<rect x="140.00" y="72.00" width="22" height="18" rx="4" ry="4" fill="#0072B2" stroke="#009E73" stroke-width="1.5"/>
+<text x="186.0" y="81.50" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="700" fill="#16202b" dominant-baseline="middle">Strain_A</text>
+<rect x="28.00" y="106.00" width="22" height="18" rx="4" ry="4" fill="#56B4E9" stroke="#D55E00" stroke-width="1.5"/>
+<text x="39.00" y="115.50" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="700" fill="#111111">▲</text>
+<rect x="56.00" y="106.00" width="22" height="18" rx="4" ry="4" fill="#e69f00" stroke="#F0E442" stroke-width="1.5"/>
+<rect x="84.00" y="106.00" width="22" height="18" rx="4" ry="4" fill="#D55E00" stroke="#000000" stroke-width="1.5"/>
+<rect x="112.00" y="106.00" width="22" height="18" rx="4" ry="4" fill="#CC79A7" stroke="#0072B2" stroke-width="1.5"/>
+<rect x="140.00" y="106.00" width="22" height="18" rx="4" ry="4" fill="#0072B2" stroke="#009E73" stroke-width="1.5"/>
+<text x="186.0" y="115.50" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="700" fill="#16202b" dominant-baseline="middle">Strain_B</text>
+<rect x="28.00" y="140.00" width="22" height="18" rx="4" ry="4" fill="#56B4E9" stroke="#009E73" stroke-width="1.5"/>
+<text x="39.00" y="149.50" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="700" fill="#111111">▲</text>
+<rect x="56.00" y="140.00" width="22" height="18" rx="4" ry="4" fill="#56B4E9" stroke="#009E73" stroke-width="1.5"/>
+<text x="67.00" y="149.50" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="700" fill="#111111">▲</text>
+<rect x="84.00" y="140.00" width="22" height="18" rx="4" ry="4" fill="#D55E00" stroke="#000000" stroke-width="1.5"/>
+<rect x="112.00" y="140.00" width="22" height="18" rx="4" ry="4" fill="#CC79A7" stroke="#0072B2" stroke-width="1.5"/>
+<rect x="140.00" y="140.00" width="22" height="18" rx="4" ry="4" fill="#0072B2" stroke="#009E73" stroke-width="1.5"/>
+<text x="186.0" y="149.50" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="700" fill="#16202b" dominant-baseline="middle">Strain_C</text>
+<rect x="84.00" y="190.00" width="22" height="18" rx="4" ry="4" fill="#000000" stroke="#D55E00" stroke-width="1.5"/>
+<text x="95.00" y="199.50" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">▲</text>
+<rect x="112.00" y="190.00" width="22" height="18" rx="4" ry="4" fill="#D55E00" stroke="#D55E00" stroke-width="1.5"/>
+<rect x="140.00" y="190.00" width="22" height="18" rx="4" ry="4" fill="#009E73" stroke="#56B4E9" stroke-width="1.5"/>
+<text x="186.0" y="199.50" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="700" fill="#16202b" dominant-baseline="middle">Strain_D</text>
+<rect x="84.00" y="224.00" width="22" height="18" rx="4" ry="4" fill="#CC79A7" stroke="#F0E442" stroke-width="1.5"/>
+<text x="95.00" y="233.50" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="700" fill="#111111">▲</text>
+<rect x="112.00" y="224.00" width="22" height="18" rx="4" ry="4" fill="#D55E00" stroke="#D55E00" stroke-width="1.5"/>
+<rect x="140.00" y="224.00" width="22" height="18" rx="4" ry="4" fill="#009E73" stroke="#56B4E9" stroke-width="1.5"/>
+<text x="186.0" y="233.50" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="700" fill="#16202b" dominant-baseline="middle">Strain_E</text>
+<rect x="112.00" y="274.00" width="22" height="18" rx="4" ry="4" fill="#D55E00" stroke="#0072B2" stroke-width="1.5"/>
+<text x="123.00" y="283.50" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="700" fill="#FFFFFF">▲</text>
+<rect x="140.00" y="274.00" width="22" height="18" rx="4" ry="4" fill="#CC79A7" stroke="#56B4E9" stroke-width="1.5"/>
+<text x="151.00" y="283.50" text-anchor="middle" dominant-baseline="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="11" font-weight="700" fill="#111111">▲</text>
+<text x="186.0" y="283.50" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="700" fill="#16202b" dominant-baseline="middle">Singleton</text>
+</svg>

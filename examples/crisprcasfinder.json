@@ -1,0 +1,31 @@
+{
+  "Sequences": [
+    {
+      "Id": "contig1",
+      "Description": "sample, synthetic example",
+      "Crisprs": [
+        {
+          "Name": "forward",
+          "Evidence_Level": 4,
+          "Potential_Orientation": "+",
+          "Regions": [
+            {"Type": "Spacer", "Sequence": "AACGTACCAA"},
+            {"Type": "Spacer", "Sequence": "CCATGGTACC"},
+            {"Type": "Spacer", "Sequence": "TTAGCAATGC"}
+          ]
+        },
+        {
+          "Name": "reverse",
+          "Evidence_Level": 3,
+          "Potential_Orientation": "ND",
+          "CRISPRDirection": "-",
+          "Regions": [
+            {"Type": "Spacer", "Sequence": "GCATTGCTAA"},
+            {"Type": "Spacer", "Sequence": "GGTACCATGG"},
+            {"Type": "Spacer", "Sequence": "TTGGTACGTT"}
+          ]
+        }
+      ]
+    }
+  ]
+}

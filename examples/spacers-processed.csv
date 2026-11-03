@@ -1,0 +1,7 @@
+Folder,Organism_Name,Seq_Name,Orientation,Spacer_Sequence,Reverse_Complement_Sequence
+sample,sample,forward,+,AACGTACCAA,
+sample,sample,forward,+,CCATGGTACC,
+sample,sample,forward,+,TTAGCAATGC,
+sample,sample,reverse,-,TTGGTACGTT,AACGTACCAA
+sample,sample,reverse,-,GGTACCATGG,CCATGGTACC
+sample,sample,reverse,-,GCATTGCTAA,TTAGCAATGC

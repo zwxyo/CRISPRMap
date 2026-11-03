@@ -1,0 +1,7 @@
+Folder,Organism_Name,Seq_Name,Orientation,Spacer_Sequence
+sample,sample,forward,+,AACGTACCAA
+sample,sample,forward,+,CCATGGTACC
+sample,sample,forward,+,TTAGCAATGC
+sample,sample,reverse,-,GCATTGCTAA
+sample,sample,reverse,-,GGTACCATGG
+sample,sample,reverse,-,TTGGTACGTT

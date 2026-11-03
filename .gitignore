@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+.vscode
+.venv/
+build/
+dist/
+*.egg-info/
+examples/output/
+results/
+tests/
